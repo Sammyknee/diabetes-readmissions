@@ -35,7 +35,7 @@ To find the best performing classification model, we iterated through a number o
 
 ## Results
 
-The final model we chose had a precision score of 0.64, a recall score of 0.53, an accuracy score of 0.64 and a f1 score 0.58.
+The final model we chose had a precision score of 0.63, a recall score of 0.55, an accuracy score of 0.64 and a f1 score 0.59.
 
 ![xgboost metrics](./images/xgboost_metrics.png)
 
