@@ -43,6 +43,9 @@ Some of the top most important features of our model are:
 * Inpatient visits
 * Discharge disposition type
 * Diabetes medication
+* Number of diagnoses
+
+
 ![most important features](./images/feature_importance.png)
 
 ***
